@@ -1,0 +1,11 @@
+﻿  UnitTest1.cpp
+D:\allCode\ap_all_code\LR_08.1_char\LR_08.1_char.cpp(13,15): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+D:\allCode\ap_all_code\LR_08.1_char\LR_08.1_char.cpp(31,17): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+D:\allCode\ap_all_code\LR_08.1_char\LR_08.1_char.cpp(38,17): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+  UnitTest1.vcxproj -> D:\allCode\ap_all_code\LR_08.1_char\x64\Debug\UnitTest1.dll
